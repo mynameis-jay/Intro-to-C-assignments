@@ -9,7 +9,7 @@ one last array
 */
 
 #include <stdio.h> // including input/output library, main.h header, and defining rows and columns variables
-#include "main.h"
+#include "main_10_26#1.h"
 #define ROWS 10
 #define COLUMNS 10
 
