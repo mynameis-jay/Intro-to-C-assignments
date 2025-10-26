@@ -1,3 +1,9 @@
+/* Jalen Jarrett
+COP 3223C
+Oct 26, 2025
+Calling all functions from main.c and defining the variables
+*/
+
 #define ROWS 10
 #define COLUMNS 10
 void FillData(int arr[][COLUMNS], int r, int c);
