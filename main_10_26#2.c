@@ -8,7 +8,7 @@ chooses
 */
 
 #include <stdio.h> // including input/output library, main.h header, and declaring the rows and columns
-#include "main.h"
+#include "main_10_26#2.h"
 #define MAXROWS 100
 #define MAXCOLUMNS 100
 
