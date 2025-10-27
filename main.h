@@ -1,3 +1,9 @@
+/* Jalen Jarrett
+COP 3223C
+Oct 26, 2025
+Calling all functions from main.c and defining rows and columns
+*/
+
 #define MAXROWS 100
 #define MAXCOLUMNS 100
 void displayMatrix(int arr[][MAXCOLUMNS], int rows, int columns);
