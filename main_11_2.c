@@ -8,7 +8,7 @@ alphabet appear in the array, and finally reverse the array
 
 #include <stdio.h> // including input/output library, ctype library, main.h header, and defining MAXCHAR variable
 #include <ctype.h>
-#include "main.h"
+#include "main_11_2.h"
 #define MAXCHAR 50
 
 int main(void) { // main function taken from assignment page
